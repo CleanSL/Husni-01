@@ -29,6 +29,9 @@
 <img src="https://img.shields.io/badge/JavaFX-2C2255?style=for-the-badge" height="30"/>
 <img src="https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge" height="30"/>
 <img src="https://skillicons.dev/icons?i=spring&theme=dark" height="30"/><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge" height="30"/>
+<img src="https://skillicons.dev/icons?i=java&theme=dark" height="30"/><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge" height="30"/>
+<img src="https://skillicons.dev" height="30"/><img src="https://shields.io" height="30"/>
+
 
 <!-- Frontend -->
 <img src="https://skillicons.dev/icons?i=html&theme=dark" height="30"/><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge" height="30"/>
