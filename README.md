@@ -38,8 +38,7 @@
 <img src="https://skillicons.dev/icons?i=css&theme=dark" height="30"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge" height="30"/>
 <img src="https://skillicons.dev/icons?i=javascript&theme=dark" height="29"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge" height="30"/>
 <img src="https://skillicons.dev/icons?i=react&theme=dark" height="30"/><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge" height="30"/>
-
-
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" height="30"/>
 
 ### Tools & Platforms 
 
@@ -52,6 +51,7 @@
 ### Databases
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="30"/><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge" height="30"/>
 <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="30"/><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge" height="30"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" height="30"/>
 
 ### Design 
 <img src="https://skillicons.dev/icons?i=figma&theme=dark" height="30"/><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge" height="30"/>
