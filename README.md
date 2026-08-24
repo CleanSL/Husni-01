@@ -53,6 +53,7 @@
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="30"/><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge" height="30"/>
 <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="30"/><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge" height="30"/>
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" height="30"/>
+<img src="https://skillicons.dev/icons?i=redis&theme=dark" height="30"/><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="30"/>
 
 ### Design 
 <img src="https://skillicons.dev/icons?i=figma&theme=dark" height="30"/><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge" height="30"/>
