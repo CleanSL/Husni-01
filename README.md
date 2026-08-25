@@ -62,6 +62,5 @@
 
 ## 📊 GitHub Performance
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Husni-01)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/931d233c-52da-4518-ba3c-783276f78359/deploy-status)](https://app.netlify.com/projects/husni-github-readme/deploys)
 
